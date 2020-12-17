@@ -25,6 +25,6 @@
 #ifndef _DYLD_SUPPORTED_ARCHS_H_
 #define _DYLD_SUPPORTED_ARCHS_H_
 
-#define SUPPORT_ARCH_arm64e 1 // mehhh,this works for the M1 dyld_shared_cache_util ¯\_(ツ)_/¯
+#define SUPPORT_ARCH_arm64e 1 // mehhh,this works for the M1 dyld_shared_cache_arm64e ¯\_(ツ)_/¯
 
 #endif // _DYLD_SUPPORTED_ARCHS_H_
